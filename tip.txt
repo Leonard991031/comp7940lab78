@@ -1,1 +1,2 @@
 the same on lab56, but i skip the heroku part. so i directly use the lab56 repository for container lab.
+如果你想在lab78上完成container的操作，需要使得lab78上传到heroku当中，并完成后续token的设置，之后cd comp7940lab78，开始执行docker命令即可
